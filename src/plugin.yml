@@ -1,0 +1,4 @@
+name: Factions
+main: io.github.rlp.factions.FactionsPlugin
+version: 1.0
+author: rlp
